@@ -1,0 +1,23 @@
+<Sourcematerial>
+    <tempSourceMaterial>
+        <Material expiredTime="1517374506" mediaID="bBxmXBSb9jFxcBfAIEhC8nZIOVvSBrKHb3yvDFwGqQUn00I_Fq_vnlelmrKYqES1" name="zhou1.jpg" path="C:\ykb\workspace\Python\res\" status="added" type="image" />
+        <Material expiredTime="1517498397" mediaID="iiMs8gPJG0YMCOn1WWe0AQ3oLfk_ginwQK24ABM1H4civk6ONKqBcziAuKqiTwGR" name="mumuZuiGuaiGuai.jpg" path="C:\ykb\workspace\Python\res\" status="added" type="image" />
+        <Material expiredTime="1517498398" mediaID="k0YnNvkd5V4ChVgYMPzv290UYWbRA0c8pO5EEhEDK_VPE88PFll700Qj8lYMTmGo" name="xiangShouAnMo.jpg" path="C:\ykb\workspace\Python\res\" status="added" type="image" />
+        <Material expiredTime="1517498398" mediaID="nQjTg1QYvlSrF6HgRPiUrXDb5vGvu3czEHGFa-XCMcIbAqbbDJkBe4NHlK8P8gjU" name="weixiao.jpg" path="C:\ykb\workspace\Python\res\" status="added" type="image" />
+        <Material expiredTime="1517498400" mediaID="SH06KIRfA87TQGbBGrGK8dvYTgnMCXjSSQ0Y9Tl-JXcrUbvUhYEbIplzFNkHvCnN" name="shuohua.jpg" path="C:\ykb\workspace\Python\res\" status="added" type="image" />
+        <Material expiredTime="1517381543" mediaID="vGPNrb4kQDmjA8fHlZ9M9UIEQ02uJVz3SEBsagvoBWwDWFO7pTcrXbjWw7cm0qFy" name="Try.mp3" path="C:\ykb\workspace\Python\res\" status="added" type="voice" />
+        <Material expiredTime="1517403039" mediaID="mZc3lEulp2P_4oB83m1bTms5Hw4eONDdCE7CeijQauV18ZblfASIMKviOb_8McwQ" name="mumuSwim.mp4" path="C:\ykb\workspace\Python\res\" status="added" thumb_id="yxmxRGQYSQKVaxaEVGlPoMBjyvqN9s5XdxH9mpn-29Xi3vOsjobmVMhIHmGxwpnk" type="video" />
+        <Material expiredTime="1517497088" mediaID="YeV3J-K_7ic8SWgEFc8I1Hbl9MZ0vLXP6AEaaqlt4aK4XU_gx7b9fY5m31cadN_o" name="firstSeeWorld.mp4" path="C:\ykb\workspace\Python\res\" status="added" thumb_id="ZFoJ5sdXS7paOR2Dz8cPwvtD7AyeRP7SDqUh_a8gRzpOwMOrVxwZ6zi8SDg6Om9o" type="video" />
+        <Material expiredTime="1517497092" mediaID="I9kYxsDsqwMzdYsz_tPUPlozUTbix5Cpg6C1nVSq4x3-7Se04_pVSxbEwtLNbfgL" name="firstWantEeatMilk.mp4" path="C:\ykb\workspace\Python\res\" status="added" thumb_id="L5mmrzlg3RWTe_vSR9TnF-kMXWVKX5q-yVEwiD7cXwpM2dXb2eRvxgAreI9uDlWI" type="video" />
+        <Material expiredTime="1517497114" mediaID="ATxmTyXJlPzCGzQY0NDIOYJi6EUBXqqrySOp3IJQIqs_fko3iQVXJcGpnPbQwn1J" name="firstLose.mp4" path="C:\ykb\workspace\Python\res\" status="added" thumb_id="gs45B9tQkecHg7AL4zXd2GsdsksyrNUXYRWoc5mdGrUrX0wbuWuZbbNUCYZZxNXD" type="video" />
+        <Material expiredTime="1517407108" mediaID="DC5RZ8vKDZzRxlSbRP-glgSLGLWbc9Hc-WbJftjhuQS47IBD0lNeDjd6zkNoKOa0" name="aihou.jpg" path="C:\ykb\workspace\Python\res\" status="added" type="thumb" />
+    </tempSourceMaterial>
+    <foreverSourceMaterial>
+        <Material expiredTime="" mediaID="" name="zhou2.jpg" path="C:\ykb\workspace\Python\res\" status="new" type="image" />
+    </foreverSourceMaterial>
+    <articles name="pythonTest">
+        <article description="这是一个测试的图文消息" picurl="https://cdn.pixabay.com/photo/2018/01/25/14/12/nature-3106213_960_720.jpg" title="白色与猛虎" url="https://y.qq.com/n/yqq/song/001dUfx54AuAVK.html?ADTAG=baiduald&amp;play=1" />
+        <article description="这是一个测试的图文消息" picurl="https://cdn.pixabay.com/photo/2017/12/05/20/28/fantasy-3000308_960_720.jpg" title="总有一天这个世界是属于我的" url="https://www.python.org/" />
+        <article description="这是一个测试的图文消息" picurl="https://cdn.pixabay.com/photo/2017/09/16/01/03/girl-2754233_960_720.jpg" title="努力能够获得一切吗" url="https://www.baidu.com/?tn=98012088_5_dg&amp;ch=12" />
+    </articles>
+</Sourcematerial>
